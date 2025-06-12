@@ -31,4 +31,4 @@ Proyecto de demostración de una instalación KNX funcional, simulada 100% por t
 
 LICENCIA
     Uso libre con fines educativos y demostrativos.
-    Creado por Antony R 
+    Creado por Antony R Cachay Mendoza
